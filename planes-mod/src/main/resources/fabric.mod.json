@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "planes",
+  "version": "${version}",
+  "name": "Planes Mod",
+  "description": "Мод с различными самолётами для полётов в ванильном стиле",
+  "authors": [
+    "PlanesMod Developer"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.example.planes.PlanesMod"
+    ]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.14.0",
+    "minecraft": "1.21.1",
+    "java": ">=21"
+  }
+}

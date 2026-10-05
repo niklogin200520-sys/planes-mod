@@ -1,0 +1,13 @@
+{
+  "item.planes.biplane": "Biplane",
+  "item.planes.fighter_ww1": "WWI Fighter",
+  "item.planes.fighter_ww2": "WWII Fighter",
+  "item.planes.jet_fighter": "Jet Fighter",
+  "item.planes.airliner": "Modern Airliner",
+  
+  "entity.planes.biplane": "Biplane",
+  "entity.planes.fighter_ww1": "WWI Fighter",
+  "entity.planes.fighter_ww2": "WWII Fighter",
+  "entity.planes.jet_fighter": "Jet Fighter",
+  "entity.planes.airliner": "Modern Airliner"
+}

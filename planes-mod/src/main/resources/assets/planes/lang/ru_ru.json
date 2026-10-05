@@ -1,0 +1,13 @@
+{
+  "item.planes.biplane": "Биплан",
+  "item.planes.fighter_ww1": "Истребитель WWI",
+  "item.planes.fighter_ww2": "Истребитель WWII",
+  "item.planes.jet_fighter": "Реактивный истребитель",
+  "item.planes.airliner": "Современный самолёт",
+  
+  "entity.planes.biplane": "Биплан",
+  "entity.planes.fighter_ww1": "Истребитель WWI",
+  "entity.planes.fighter_ww2": "Истребитель WWII",
+  "entity.planes.jet_fighter": "Реактивный истребитель",
+  "entity.planes.airliner": "Современный самолёт"
+}
